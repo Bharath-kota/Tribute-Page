@@ -1,2 +1,1 @@
-# Tribute-Page
-A tribute project
+A tribute website for a fictional character made using html and css
